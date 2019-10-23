@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571798795 source:c:\users\eduar\desktop\agenda_finalizada\main.cpp
+	<iostream>
+	"agenda.h"
+
+1571798731 c:\users\eduar\desktop\agenda_finalizada\agenda.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
